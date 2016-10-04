@@ -1,3 +1,7 @@
 # Fermenter
-#Each beer has its own CSV file with the temps. Reading are pushed here from the Pi
-#and then read by Google sheets to create the graphs.
+- Each beer has its own CSV file. 
+- Temps are in F.
+- Date is in yyyy-mm-dd-HH:mm format.
+- Use the RAW csv when reading from another app.
+
+End.
